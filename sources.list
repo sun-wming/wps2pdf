@@ -1,0 +1,4 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/debian bullseye main
+deb http://mirrors.tuna.tsinghua.edu.cn/debian-security bullseye-security main
+deb http://mirrors.tuna.tsinghua.edu.cn/debian bullseye-updates main
+
